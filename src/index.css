@@ -13,8 +13,9 @@ h1 {
   font-family: 'Reenie Beanie', sans-serif;
   font-size: 40px;
   font-weight: normal;
-  margin-bottom: -.3rem;
-  margin-top: 2rem;
+  margin-bottom: 1rem;
+  /* margin-top: 2rem;  */
+
 }
 
 h3 {

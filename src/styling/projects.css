@@ -1,7 +1,7 @@
 .project-container {
     display: flex;
     flex-direction: row;
-    margin: 10rem 4rem;
+    margin: 5rem 4rem;
     justify-content: center;
     text-align: flex-start;
 }
@@ -17,12 +17,17 @@
     text-align: left;
 }
 .logo-y {
-    margin-right: 5rem;
+    margin-right: 5rem;  
+    margin-top: 3rem;
 }
 .inline {
     font-family: 'Nunito', sans-serif;  
     font-size: 16px;
     font-weight: 800;
+}
+
+.last {
+    margin-bottom: 2rem;
 }
 /* BACKGROUND */
 .bg1 {
