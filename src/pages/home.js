@@ -40,7 +40,7 @@
           </div>
           <div className="experience-container">
               <p className="experience">
-              <a href="https://www.yallacooperative.com/" target="_blank" rel="noreferrer" className="exp-title"> <img src={arrow} className="arrow" alt="link"/>Yalla Cooperative<br/></a> UX Designer & Researcher, Sept 2021-present</p>
+              <a href="https://www.yallacooperative.com/" target="_blank" rel="noreferrer" className="exp-title"> <img src={arrow} className="arrow" alt="link"/>Yalla Cooperative<br/></a> UX Designer & Researcher, Sept 2021 - Dec 2023</p>
               <p className="experience">
               <a href="https://sienna-website.vercel.app/" target="_blank" rel="noreferrer" className="exp-title"> <img src={arrow} className="arrow" alt="link"/>Sienna<br/></a> Co-founder: UX Designer & Developer, Mar 2020 - Aug 2021</p>
               <p className="experience">

@@ -24,7 +24,7 @@ const Projects = () => {
 </div>
     <div className="content-column">  
     <h1>Shannon Trust & The Ministry of Justice. </h1>
-    <strong><p>UX Designer & Researcher, App Development (2021 - present) & Website Development (2022)</p></strong>
+    <strong><p>UX Designer & Researcher, App Development (2021 - 2023) & Website Development (2023)</p></strong>
     <a href="https://www.shannontrust.org.uk/" target="_blank" rel="noreferrer">shannontrust.org.uk/</a>
     <p>Shannon Trust has been running a reading intervention program in prisons for over 20 years, 
       utilising physical books and peer learning. </p>
@@ -55,7 +55,7 @@ const Projects = () => {
         opportunity to develop management skills. I used Github to manage the full website redevelopment and continued to design the user experience in collaboration with my cross-functional team.</p>
           
     <h1> The Scouts Association. </h1>
-    <strong><p>UX Designer, Web App Development (2022 - present)</p></strong>
+    <strong><p>UX Designer, Web App Development (2022 - 2023)</p></strong>
     <a href="https://digitalskills.scouts.org.uk/" target="_blank" rel="noreferrer">digitalskills.scouts.org.uk/</a>
     <p> The Scouts Association recognised the need to enhance the digital skills of their volunteers.</p>
     <p> The Digital Skills tool serves as a platform to access learning content. It evolved through the
