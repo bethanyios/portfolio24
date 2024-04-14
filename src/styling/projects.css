@@ -1,0 +1,58 @@
+.project-container {
+    display: flex;
+    flex-direction: row;
+    margin: 10rem 4rem;
+    justify-content: center;
+    text-align: flex-start;
+}
+.logo-column {
+    display: flex;
+    flex-direction: column;
+}
+.content-column {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    padding: 0 0 0 6rem;
+    text-align: left;
+}
+.logo-y {
+    margin-right: 5rem;
+}
+.inline {
+    font-family: 'Nunito', sans-serif;  
+    font-size: 16px;
+    font-weight: 800;
+}
+/* BACKGROUND */
+.bg1 {
+    top: 0;
+    left: 2rem;
+    position: fixed;
+}
+.bg2 {
+    top: 10rem;
+    right: 0;
+    position: fixed;
+}
+.bg3 {
+    bottom: -2.5rem;
+    left: -1rem;
+    position: fixed;
+}
+
+@media only screen and (max-width: 1000px) {
+
+.project-container {
+    flex-direction: column;
+    margin: 5rem 1rem;
+    }
+.content-column {
+    width: 95vw;
+    padding: 0;
+    text-align: left;
+    }
+.bg1, .bg2, .bg3 {
+    visibility: hidden;
+    } 
+}

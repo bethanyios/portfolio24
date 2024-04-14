@@ -1,0 +1,40 @@
+.contact-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+.paragraph {
+    width: 60vw;
+    text-align: justify;
+    margin: 0;
+}
+
+.contact-links {
+    font-family: 'Nunito', sans-serif;  
+    font-size: 16px;
+    margin-right: 2rem;
+}
+
+/* BACKGROUND */
+.bg5 {
+    top: 0;
+    right: 13rem;
+    position: fixed;
+}
+.bg6 {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+}
+
+@media only screen and (max-width: 600px) {
+.contact-container {
+margin: 10rem;  
+}
+.paragraph {
+    width: 95vw;
+    padding: 0;
+}
+}
