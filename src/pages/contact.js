@@ -12,12 +12,12 @@ const Contact = () => {
 <div className="contact-container">
     <p className="paragraph">
     A passionate UX Designer dedicated to driving social impact by
-    transforming user insights into intuitive solutions. </p>
-    <p className="paragraph">Good design is in the balance if usability and aesthetic, crafting a seamless and experience that transcends
-    functionality but includes all.<br /><br />
+    transforming user insights into intuitive solutions.</p>
+    <p className="paragraph">Good design is in the balance if usability and aesthetic, crafting a seamless experience that transcends
+    functionality but includes all.</p><br />
+    <p className="paragraph">Currently working for the London Fire Brigade improving the digital experience across operations.<br /><br />
     <p className="paragraph">London based</p>
     <p className="paragraph">bethanyioscott@gmail.com</p>
-    
     <h3>Thank you!</h3>
     </p>
     
